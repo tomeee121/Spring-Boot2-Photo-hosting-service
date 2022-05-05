@@ -1,7 +1,7 @@
 
 ![promo-hosting-photo](https://user-images.githubusercontent.com/85828070/167024985-41ef94d7-5f4c-4365-83af-68d2660e75d1.jpg)
 
-*<h5 align="center">Simple photos hosting service for learning purposes, with endpoint "/uploadImage" for uploading if logged by login &amp; pass "AdminJan". Also a frontend showing uploaded photos at endpoint of "/gallery" for "UserJan"
+*<h5 align="center">Simple photos hosting service for learning purposes, with endpoint "/uploadImage" for uploading if logged by login &amp; pass "AdminJan". Also a frontend showing uploaded photos at the endpoint of "/gallery" for "UserJan".<br>
 MySQL database needed to start, name set as "hosting"</h5>* 
 <br>
 Technologies used:
